@@ -13,6 +13,7 @@ Why I’m a Good Fit
    
 Skills
  - Languages: C,Verilog, SystemVerilog
+ - Static Timing Analysis
  - Verification: UVM, Functional Coverage, Assertions
  - Protocols: APB, AHB
    
